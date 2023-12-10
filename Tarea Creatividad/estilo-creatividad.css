@@ -1,0 +1,46 @@
+.container-nav{
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+.container{
+	display: flex;
+	align-content: center;
+	width: 96%;
+	padding-top: 32px;
+}
+
+.container-content{
+	width: 70%;
+	padding-right: 16px;
+}
+
+.container-sidebar{
+	width: 30%;
+	background: #fd7e14f0;
+	padding-left: 16px;
+	padding-top: 16px;
+}
+
+.container-img-sidebar{
+	width: 96%;
+}
+.container-img-sidebar img{
+	width: 100%;
+}
+
+.container-img-content{
+	width: 96%;
+	padding-bottom: 16px;
+}
+.container-img-content img{
+	width: 100%;
+}
+
+h1 {
+	text-align: center;
+	text-shadow: 1px 1px 2px  #fd7e14f0;
+}
+
+
+
